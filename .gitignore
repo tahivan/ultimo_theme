@@ -3,3 +3,7 @@ app/etc/local.xml
 media/
 var
 .idea/
+app/code/community/Aoe/
+app/etc/modules/Aoe_TemplateHints.xml
+n98-magerun.phar
+skin/frontend/base/default/aoe_templatehints/
